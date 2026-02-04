@@ -14,15 +14,21 @@ The dataset contains vehicle-related data categorized by model year and vehicle 
 🛠 Tools Used
 
 O. Tableau Desktop / Tableau Public
+
 O. Microsoft Excel (data inspection)
+
 O. GitHub (documentation)
 
 📈 Dashboard Features
 
 O. Year-wise vehicle trend analysis
+
 O. Area and line charts for time-based comparison
+
 O. Average reference line for trend benchmarking
+
 O. Aggregated measures for accurate totals
+
 O. Clean and readable visual design
 
 🧹 Data Preparation
@@ -36,8 +42,11 @@ The dashboard shows a consistent increase in vehicle counts across model years, 
 📚 Learning Outcomes
 
 O. Understanding Tableau aggregation behavior
+
 O. Handling String vs Number data type issues
+
 O. Using calculated fields and reference lines
+
 O. Interpreting trends from visual analytics
 
 🙏 Acknowledgement
